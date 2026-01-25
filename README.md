@@ -73,6 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - Create React App
 - Configured TailwindCSS into our App
+- Header
+- Login Form
+- Sign Up Form
 
 # Features
 
