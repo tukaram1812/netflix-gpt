@@ -87,6 +87,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Implemented Sign out
 - Update profile API Call
 - Fetch movies from TMDB Movies
+- BugFix: Sign up user DisplayName and profile picture update
+- BugFix: if the user is not logged in Redirect /browse to Login Page and Vice - versa
+- Unsubcribed to the onAuthStateChnaged callback
+- Add hardcoded values to the constants files
+- Register and TMDB API and create an app & get aceess token
+- Get data from TMDB Now playing movies list API
+- Custom hook for now playing movies
+- create a movie slice
+- update store with movies data
+- Planning for main container and secondary container
+- fetch data for trailer video using custom hook
+- update store with Trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- Tailwind Classes to make main container look awesome
+-
 
 # Features
 
